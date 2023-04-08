@@ -1,0 +1,29 @@
+h1
+{
+	color: darkred;
+}
+
+h2
+{
+  color: blueviolet;   
+}
+
+body
+{
+	background: grey;
+}
+
+#carte
+{
+   width: 800px;
+   margin:0 auto;
+   background-color: white;
+   text-align: center;
+   align-content: center;
+
+
+}
+
+{
+	list-style: none;
+}
